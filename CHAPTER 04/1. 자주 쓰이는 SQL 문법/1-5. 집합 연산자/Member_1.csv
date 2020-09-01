@@ -1,8 +1,0 @@
-mem_no,gender,ageband,join_date,addr
-1000001,man,20,2019-01-22,Seoul
-1000002,women,20,2019-02-12,Gyeonggi
-1000003,women,30,2019-01-24,Gyeonggi
-1000004,man,30,2019-02-14,Gangwon
-1000005,man,30,2019-01-26,Busan
-1000006,man,30,2019-02-16,Daejeon
-1000007,women,30,2019-01-28,Jeju
