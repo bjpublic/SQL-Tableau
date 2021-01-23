@@ -162,3 +162,5 @@ __1-4 워드 클라우드 분석
 1. SQL + Tableau
 __1-1 SQL 기반의 Tableau
 __1-2 협업은 SQL, 소통은 Tableau
+
+![(예스24)상세페이지_데이터분석과시각화](https://user-images.githubusercontent.com/21074282/105607593-ef142900-5de2-11eb-8816-c754ca7e5eec.png)
