@@ -6,6 +6,8 @@
 - [교보문고](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791165920173&orderClick=LAG&Kc=)
 - [알라딘](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=254235125)
 
+![입체표지](https://user-images.githubusercontent.com/21074282/105607522-89c03800-5de2-11eb-96fa-0b346f150835.jpg)
+
 ## 책 소개
 > 데이터 분석과 시각화를 한 번에!
 > 현장에서 바로 써먹는 SQL과 Tableau 실무 지침서
