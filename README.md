@@ -1,10 +1,10 @@
 # 데이터 분석과 시각화: SQL로 분석하고 Tableau로 시각화하자
 
-- 부제: 실무 예제로 익히는 데이터 분석·시각화 테크닉
-- 저자: 모원서
-- 출간일: 2020년 10월 30일
-- 정가: 26,000원
-- 페이지: 316
+## 구매 링크
+
+- [yes24](http://www.yes24.com/Product/Goods/94062191)
+- [교보문고](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791165920173&orderClick=LAG&Kc=)
+- [알라딘](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=254235125)
 
 # 책 소개
 데이터 분석과 시각화를 한 번에!
